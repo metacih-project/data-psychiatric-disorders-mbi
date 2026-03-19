@@ -1,0 +1,19 @@
+{
+  "database.hits" : 8471,
+  "additional.records": 596,
+  "database.hits.duplicates.removed" : 3485,
+  "records.screened" : 5582,
+  "full.text.assessed.for.eligibility" : 303,
+  "full.text.excluded.reasons" : {
+    "Not randomized clinical trial" : 26,
+    "Not relevant diagnosis" : 25,
+    "Not mindfulness-based intervention" : 22,
+    "Not in person" : 1,
+    "Not published in English" : 1,
+    "No non-mindfulness-based intervention" : 1,
+    "Not peer-reviewed article" : 2,
+    "No targeted outcomes" : 26,
+    "No new data provided" : 28
+  },
+  "included" : 140
+}
