@@ -37,7 +37,7 @@
   ".g_se" : "Standard error of Hedges' g",
   ".log_rr" : "Calculated effect size (logeRR)",
   ".log_rr_se" : "Standard error of logeRR",
-  "disorder": Clinical condition of participants (collapsed disorder category)",
+  "disorder": "Clinical condition of participants (collapsed disorder category)",
   "disorder_details": "More detailed information on clinical condition of participants (subcategory)",
   "year": "Year of publication",
   "country" : "Country in which the trial was conducted",
