@@ -1,5 +1,7 @@
 ## **The `data-psychiatric-disorders-mbi` dataset** 📊 
 
+[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.8115993-blue">](https://doi.org/10.5281/zenodo.8115993) 
+
 The `data-psychiatric-disorders-mbi` dataset is based on a systematic review and meta-analysis of mindfulness-based interventions (MBIs) for psychiatric disorders. 
 For this review, MBIs were defined as interventions in which mindfulness meditation is a core component, with home meditation practice as a treatment ingredient. 
 Interventions combining mindfulness with other modalities (e.g., mindfulness and cognitive techniques, as in Mindfulness-Based Cognitive Therapy [MBCT]; Segal, Williams, & Teasdale, 2002) were also included. 
