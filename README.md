@@ -9,7 +9,7 @@ The dataset contains study characteristics and effect size data from randomized 
 This dataset includes comparisons of psychotherapy with no treatment, minimal treatment, non-specific active control, specific active control, and evidence-based treatment. 
 The date of the last search update is provided [here](https://github.com/metacih-project/data-psychiatric-disorders-mbi/blob/main/metadata/last_search.txt). 
 The results of the meta-analysis can be found in [this published article](https://pubmed.ncbi.nlm.nih.gov/29126747/). 
-The dataset follows the [Metapsy data standard](https://docs.metapsy.org/data-preparation/format/). All included information has been independently extracted by two researchers. 
+The dataset follows the [MetaCIH data standard](https://incandescent-fudge-873e299.netlify.app/data-preparation/format/). All included information has been independently extracted by two researchers. 
 
 
 
