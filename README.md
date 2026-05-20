@@ -1,6 +1,6 @@
 ## **The `data-psychiatric-disorders-mbi` dataset** 📊 
 
-[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.10.5281-blue">](https://doi.org/10.5281/zenodo.20316297) 
+[<img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20316297-blue">](https://doi.org/10.5281/zenodo.20316297) 
 
 The `data-psychiatric-disorders-mbi` dataset is based on a systematic review and meta-analysis of mindfulness-based interventions (MBIs) for psychiatric disorders. 
 For this review, MBIs were defined as interventions in which mindfulness meditation is a core component, with home meditation practice as a treatment ingredient. 
